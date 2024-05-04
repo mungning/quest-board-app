@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "quest-board-app",
+    "slug": "quest-board-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "quest-board-app"
+}
